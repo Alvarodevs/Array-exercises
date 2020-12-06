@@ -112,7 +112,7 @@
         {
             "slug": "05.3-Add-items-to-array",
             "title": "05.3-Add-items-to-array",
-            "done": false,
+            "done": true,
             "path": "exercises/05.3-Add-items-to-array",
             "translations": [
                 "es",
@@ -123,7 +123,7 @@
         {
             "slug": "05.4-Add-items-to-array-looping",
             "title": "05.4-Add-items-to-array-looping",
-            "done": false,
+            "done": true,
             "path": "exercises/05.4-Add-items-to-array-looping",
             "translations": [
                 "es",
@@ -134,7 +134,7 @@
         {
             "slug": "06.1-Loop-Array",
             "title": "06.1-Loop-Array",
-            "done": false,
+            "done": true,
             "path": "exercises/06.1-Loop-Array",
             "translations": [
                 "es",
@@ -145,7 +145,7 @@
         {
             "slug": "06.2-Loop-from-the-top",
             "title": "06.2-Loop-from-the-top",
-            "done": false,
+            "done": true,
             "path": "exercises/06.2-Loop-from-the-top",
             "translations": [
                 "es",
@@ -156,7 +156,7 @@
         {
             "slug": "06.3-Loop-adding-two",
             "title": "06.3-Loop-adding-two",
-            "done": false,
+            "done": true,
             "path": "exercises/06.3-Loop-adding-two",
             "translations": [
                 "es",
@@ -167,7 +167,7 @@
         {
             "slug": "06.4-Loop-from-the-half-to-the-end",
             "title": "06.4-Loop-from-the-half-to-the-end",
-            "done": false,
+            "done": true,
             "path": "exercises/06.4-Loop-from-the-half-to-the-end",
             "translations": [
                 "es",
@@ -178,7 +178,7 @@
         {
             "slug": "06.5-One-last-looping",
             "title": "06.5-One-last-looping",
-            "done": false,
+            "done": true,
             "path": "exercises/06.5-One-last-looping",
             "translations": [
                 "es",
@@ -211,7 +211,7 @@
         {
             "slug": "07.3-Flip-Array",
             "title": "07.3-Flip-Array",
-            "done": false,
+            "done": true,
             "path": "exercises/07.3-Flip-Array",
             "translations": [
                 "es",
@@ -233,7 +233,7 @@
         {
             "slug": "08.2-Count-On",
             "title": "08.2-Count-On",
-            "done": false,
+            "done": true,
             "path": "exercises/08.2-Count-On",
             "translations": [
                 "es",
@@ -244,7 +244,7 @@
         {
             "slug": "08.3-Sum-all-items",
             "title": "08.3-Sum-all-items",
-            "done": false,
+            "done": true,
             "path": "exercises/08.3-Sum-all-items",
             "translations": [
                 "es",
@@ -255,7 +255,7 @@
         {
             "slug": "09.1-forEach-loop",
             "title": "09.1-forEach-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/09.1-forEach-loop",
             "translations": [
                 "es",
