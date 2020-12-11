@@ -2,18 +2,13 @@ let par = "Lorem ipsum dolor sit amet consectetur adipiscing elit Curabitur eget
 let counts = {};
 let parNoSpaces = par.replace(/\s/g, "");
 
-for (i = 0; i <= parNoSpaces.length; i++) {
+for (let i = 0; i < parNoSpaces.length; i++) {
 
-    var letters = parNoSpaces[i];
+    var letters = parNoSpaces[i].toLowerCase();
     
-    if (letters == {}){
-        counts[letter] = 1;
-    }
-
-   console.log(letters);
-
-
+    if (counts[letters] == undefined){
+        counts[letters] = 1;
+    } else {counts[letters] = counts[letters] + 1} 
 }
 // your code here
-
-//console.log(counts);
+console.log(counts);
